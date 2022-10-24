@@ -24,6 +24,7 @@ Run the docker container
 
 Compile front-end assets
 
+`npm install`
 `npm run build`
 
 Run the database migrations
