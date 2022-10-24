@@ -5,7 +5,7 @@ number of units of an inventory by using the first in first out valuation method
 
 The application uses Bootstrap 5 for some simple styling and Axios for a simple http request. 
 
-<img width="1427" alt="Screenshot 2022-10-24 at 23 02 18" src="https://user-images.githubusercontent.com/44080152/197633802-f3a61b3a-3680-4d80-9360-562187f168b3.png">
+<img width="1417" alt="Screenshot 2022-10-24 at 23 02 28" src="https://user-images.githubusercontent.com/44080152/197633929-e8b05731-8e33-464e-a7d1-644592faa416.png">
 
 
 ## Installation 
